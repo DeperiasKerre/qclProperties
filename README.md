@@ -1,2 +1,2 @@
-# Text Mining Pipeline for the Quantum Cascade Laser properties Based on ChemDataExtractor2
+# Text Mining Pipeline for Mining the Quantum Cascade Laser properties Based on ChemDataExtractor2
 ## Introduction
