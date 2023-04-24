@@ -4,6 +4,8 @@
 * The grammar-based parsing rules used in AutoSentenceParser in chemDataExtractor become less efficient when generalized from chemistry to the wider materials science.The tool can therefore not be readily used to mine the parameters of qcls without adptation/modification). One of the ways to overcome this is by extending the property models defined in chemDataExtractor[[2]](https://pubs.acs.org/doi/full/10.1021/acs.jcim.1c00446),[[3]](https://www.nature.com/articles/s41597-022-01752-1).
 * We improve  the parsing capabilties of chemDataExtractor on qcl properties by extending the property models and define new grammar parsing rules  for each of the qcl properties, which we utilise to extract the properties from the scientific publications.
 * We evalaute our pipeline on open access journals from AIP,IOP and OPTICA publishers.
+## Citation
+TBD
 ## Usage
 * To run the scripts, you need to install chemdataextractor2.
 * For this work, version 2.0.2 has been used. 
