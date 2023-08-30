@@ -5,7 +5,7 @@
 * We improve  the parsing capabilties of chemDataExtractor on qcl properties by extending the property models and define new grammar parsing rules  for each of the qcl properties, which we utilise to extract the properties from the scientific publications.
 * We evalaute our pipeline on open access journals from AIP,IOP and OPTICA publishers.
 ## Citation
-TBD
+Kerre, D., Laurent, A., Maussang, K., Owuor, D. (2023). A Text Mining Pipeline for Mining the Quantum Cascade Laser Properties. In: Abelló, A., et al. New Trends in Database and Information Systems. ADBIS 2023. Communications in Computer and Information Science, vol 1850. Springer, Cham. https://doi.org/10.1007/978-3-031-42941-5_34
 ## Usage
 * To run the scripts, you need to install chemdataextractor2.
 * For this work, version 2.0.2 has been used. 
